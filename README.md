@@ -28,7 +28,7 @@ npm install -D  typescript \
 
 ## super quick usage
 
-```
+```ts
 import Koa from "koa";
 import Router from "@koa/router";
 import { rest } from "koa-zod-rest";
