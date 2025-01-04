@@ -1,0 +1,8 @@
+lib
+test
+.nvmrc
+.prettier
+*.tar.gz
+*.sh
+tsconfig*
+.DS_Store
