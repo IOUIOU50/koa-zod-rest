@@ -1,3 +1,5 @@
 node_modules
 *.tar.gz
 .DS_Store
+dist
+tsconfig.tsbuildinfo
