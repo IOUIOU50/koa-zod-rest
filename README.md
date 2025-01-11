@@ -28,7 +28,7 @@ npm install -D typescript @types/node @types/koa @types/koa__router openapi3-ts
 Finally,
 
 ```bash
-yarn add koa-zod-rest
+npm install koa-zod-rest
 ```
 
 ## Usage
