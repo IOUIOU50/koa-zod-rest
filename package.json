@@ -1,6 +1,6 @@
 {
   "name": "koa-zod-rest",
-  "version": "0.0.1",
+  "version": "1.0.0-rc1",
   "description": "Expand your koa router with [1] input validation, [2] type inference, [3] swagger autogen",
   "scripts": {
     "build": "rm -rf dist && tsc --build"
