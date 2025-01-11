@@ -104,10 +104,9 @@ rest(
 );
 
 // Swagger UI Setup
-router.get(
-  '/path-to-swagger', // << set your swagger document path
+app.use(
   koaSwagger({
-    routePrefix: false,
+    routePrefix: '/path-to-swagger',
     swaggerOptions: {
       spec: { ...swaggerObject },
     },
